@@ -1,6 +1,6 @@
-# Alice Moro's Masters Thesis work
+# "Measurement of the strong coupling constant with the LHCb detector"
 
-"Measurement of the strong coupling constant with the LHCb detector"
+Alice Moro's masters thesis @ unipd
 
 All useful ROOT files can be found here: https://drive.google.com/drive/folders/1TAwn5ll-_hyRoDiqyBTvuqv1rN44elUB?usp=sharing
 
